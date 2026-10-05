@@ -1,0 +1,4 @@
+etc/*
+output/*
+*.log
+yt-dlp
